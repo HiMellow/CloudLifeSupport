@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.cloudlife.support">
+
+    <application
+        android:allowBackup="true"
+        android:theme="@android:style/Theme.Black.NoTitleBar.Fullscreen" />
+</manifest>
